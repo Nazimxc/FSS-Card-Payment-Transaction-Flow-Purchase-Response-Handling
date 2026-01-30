@@ -1,6 +1,6 @@
 <?php
  $encryptionFlag = 0;  // added for AES migration
- $terminalResKey="51261103202951261103203151261103";
+ $terminalResKey=" ";
  /* Merchant (ME) checks, if error number is NOT present,then go for Encryption using required parameters 
 */
  /* NOTE - MERCHANT MUST LOG THE RESPONSE RECEIVED IN LOGS AS PER BEST PRACTICE */
