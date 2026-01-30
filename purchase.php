@@ -10,7 +10,7 @@
  $ReqAction = "<action>1</action>" ;
  //.$_REQUEST['action']
  $ReqCurrencyCode = "<currencycode>356</currencycode>";
- $TranportalId = "9035433";
+ $TranportalId = "  ";
  $ReqTranportalPassword = "<password>password1</password>";
  $ReqCurrency = "<currency>356</currency>";
  $ReqTranportalId="<id>".$TranportalId."</id>";
